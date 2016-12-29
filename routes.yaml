@@ -1,0 +1,4 @@
+routes:
+  /:
+    uses: index
+    as: missingalt
